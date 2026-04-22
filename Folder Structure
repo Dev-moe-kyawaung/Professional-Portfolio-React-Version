@@ -1,0 +1,16 @@
+react-portfolio/
+│── public/
+│   └── index.html
+│── src/
+│   │── components/
+│   │   ├── Navbar.js
+│   │   ├── Hero.js
+│   │   ├── About.js
+│   │   ├── Skills.js
+│   │   ├── Projects.js
+│   │   ├── Contact.js
+│   │   └── Footer.js
+│   │── App.js
+│   │── App.css
+│   │── index.js
+│── package.json
